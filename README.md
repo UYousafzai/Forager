@@ -1,2 +1,8 @@
 # Forager
-a small and simple search engine that searches a static dump of wikipedia html pages, the parsing has been done ion python, if you're interested in learning about cleaning web pages to extract data, you can look into this
+
+Forager is a Search Engine Majorly Built in Python which serves to process user queries for searching a static HTML dump of 'Wikipedia'
+
+Python is used for Parsing and indexing
+MySQL DBMS is used for Indexing the parsed data and managing it. 
+
+a project by sohaib, Umar and Muhammad ali
